@@ -1,0 +1,196 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+#gold p {
+    color: gold;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+#gold span {
+    border: 2px solid white;
+    padding: 5px;
+    color: goldenrod;
+    font-weight: bolder;
+}
+
+#farm {
+    display: inline-block;
+    padding: 0px 25px 25px 25px;
+    text-align: center;
+    margin: 100px 45px 100px 45px;
+    background-color: yellow;
+    border: 2px white solid;
+    width: 200px;
+
+}
+
+#farm h2 {
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+}
+
+#farm p {
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+}
+
+#farm input {
+    padding: 10px;
+    background-color: yellow;
+    border: 3px solid black;
+    color: black;
+    font-weight: bold;
+    box-shadow: 3px 3px black;
+    cursor: pointer;
+}
+
+#farm form {
+    background-color: yellow;
+    margin-top: 10px;
+}
+
+#cave {
+    display: inline-block;
+    padding: 0px 25px 25px 25px;
+    text-align: center;
+    margin: 100px 45px 100px 0px;
+    background-color: yellow;
+    border: 2px white solid;
+    width: 200px;
+}
+
+#cave h2 {
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+}
+
+#cave p {
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+}
+
+#cave input {
+    padding: 10px;
+    background-color: yellow;
+    border: 3px solid black;
+    color: black;
+    font-weight: bold;
+    box-shadow: 3px 3px black;
+    cursor: pointer;
+}
+
+#cave form {
+    background-color: yellow;
+    margin-top: 10px;
+}
+
+#house {
+    display: inline-block;
+    padding: 0px 25px 25px 25px;
+    text-align: center;
+    margin: 100px 45px 100px 0px;
+    background-color: yellow;
+    border: 2px white solid;
+    width: 200px;
+}
+
+#house h2 {
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+}
+
+#house p {
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+}
+
+#house input {
+    padding: 10px;
+    background-color: yellow;
+    border: 3px solid black;
+    color: black;
+    font-weight: bold;
+    box-shadow: 3px 3px black;
+    cursor: pointer;
+}
+
+#house form {
+    background-color: yellow;
+    margin-top: 10px;
+}
+
+#casino {
+    display: inline-block;
+    padding: 0px 25px 25px 25px;
+    text-align: center;
+    margin: 100px 45px 100px 0px;
+    background-color: yellow;
+    border: 2px white solid;
+    width: 200px;
+}
+
+#casino h2 {
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+}
+
+#casino p {
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+}
+
+#casino input {
+    padding: 10px;
+    background-color: yellow;
+    border: 3px solid black;
+    color: black;
+    font-weight: bold;
+    box-shadow: 3px 3px black;
+    cursor: pointer;
+}
+
+#casino form {
+    background-color: yellow;
+    margin-top: 10px;
+}
+
+#activities {
+    margin: 0px 50px 0px 50px;
+    padding: 15px;
+    height: 150px;
+    overflow: auto;
+    border: 2px white solid;
+}
+
+#activities p {
+    margin-bottom: 2px;
+}
+
+#footer h2 {
+    color: gold;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+#earned {
+    color: forestgreen;
+}
+
+#lost {
+    color: crimson;
+}
